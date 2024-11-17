@@ -1,0 +1,70 @@
+/*
+
+body{
+    display: flex;
+    justify-content: center;
+    background: aqua;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+form{
+   display: flex;
+    width: 45rem;
+    margin: 5%;
+    background: purple;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+}
+input{
+    width: 90%;
+    height: 45px;
+    margin: 1% 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+textarea{
+    height: 45px;
+    margin: 1% 2%;
+    width: 90%;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+button{
+    height: 45px;
+    width: 90%;
+    margin: 1% 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+#cards{
+    text-align: center;
+    align-content: center;
+    margin: 2% 0;
+    background: rgba(0, 0, 0, 0.705);
+}
+#cards > button{
+    border: none;
+    color: white;
+    background: rgba(21, 21, 182, 0.76);
+}
+#cards > h1{
+    color: red;
+    font: optional;
+}
+#cards > p{
+    color: white;
+    font: medium;
+    font-weight: bolder;
+}
+#cards > button:hover{
+    background: rgba(10, 10, 223, 0.952);
+
+}
+    */
+
+ 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
